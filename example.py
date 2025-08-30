@@ -1,2 +1,2 @@
 print("Hello world!-example")
-print("example")
+print("example2")

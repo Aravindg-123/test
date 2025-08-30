@@ -1,3 +1,3 @@
-print("this is git1")
+print("this is git")
 print("hi")
-print("Updated")
+print("Version2")
